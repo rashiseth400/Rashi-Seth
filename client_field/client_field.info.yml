@@ -1,0 +1,5 @@
+name: Client Custom Field Type
+description: This modules is for custom client field type.
+core_version_requirement: ^8 || ^9 || ^10
+type: module
+package: custom
